@@ -22,9 +22,12 @@
     height: 1050px;
 }
 .img-fon{
-    background-image: url(../img/лого2.png);
-    object-fit: cover;                                                                                                        ;
+                                                                                                           ;
 }
 .main{
     height: 1000px ;
+}
+.git{
+    position: absolute;
+    width: 100%;
 }
