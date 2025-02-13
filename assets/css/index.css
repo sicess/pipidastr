@@ -23,7 +23,7 @@
 }
 .img-fon{
     background-image: url(../img/лого2.png);
-    object-fit: cover                                                                                                          ;
+    object-fit: cover;                                                                                                        ;
 }
 .main{
     height: 1000px ;
